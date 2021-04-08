@@ -6,6 +6,13 @@ i am data scientist, working on machine learning, deep learning and computer vis
 
 ## My Deep Learning Projects
 - Human Action Recognition from video
+- Pneumonia Detection from XRay
+- Speech Recognition
+- Vehicle Detection
+- Licenece Plate Detection
+- Optical Character Recognition
+- Credit Card Fraud Detection
+- Skin Disease Recognition from images
 
 ## My Technologies
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
