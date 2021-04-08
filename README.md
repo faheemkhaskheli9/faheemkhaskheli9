@@ -19,6 +19,7 @@ i am data scientist, working on machine learning, deep learning and computer vis
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
+- Selenium
 ---
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
