@@ -5,7 +5,13 @@ Welcome to my github profile.
 i am data scientist, working on machine learning, deep learning and computer vision.
 
 ## My Deep Learning Projects
+- 3D Medical Images CT-Scan Segmentation
+- 3D Medical Images CT-Scan Keypoint detection
+- 2D Medical Images CT-Scan Segmentation
+- 2D Medical Images CT-Scan Keypoint detection
 - Human Action Recognition from video
+- Body Pose Estimation
+- Face Recognition
 - Pneumonia Detection from XRay
 - Speech Recognition
 - Vehicle Detection
