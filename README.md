@@ -1,8 +1,11 @@
 # Faheem Khaskheli
 
-Welcome to my github profile.
+Welcome to my GitHub profile.
 
-i am data scientist, working on machine learning, deep learning and computer vision.
+I am a certified Tensorflow Developer, working on machine learning, deep learning, and computer vision.
+
+## Certification
+https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1
 
 ## My Deep Learning Projects
 - 3D Medical Images CT-Scan Segmentation
