@@ -12,13 +12,15 @@ https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1
 - 3D Medical Images CT-Scan Keypoint detection
 - 2D Medical Images CT-Scan Segmentation
 - 2D Medical Images CT-Scan Keypoint detection
+- Custom Trained OCR
+- Intelligent Document Parsing
 - Human Action Recognition from video
 - Body Pose Estimation
 - Face Recognition
 - Pneumonia Detection from XRay
 - Speech Recognition
 - Vehicle Detection
-- Licenece Plate Detection
+- License Plate Detection
 - Optical Character Recognition
 - Credit Card Fraud Detection
 - Skin Disease Recognition from images
