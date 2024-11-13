@@ -4,6 +4,24 @@ Welcome to my GitHub profile.
 
 I am a certified Tensorflow Developer, working on machine learning, deep learning, and computer vision.
 
+## Skills
+- Python
+- HTML
+- CSS
+- Javascript
+- MySQL
+- Deep Learning
+- Machine Learning
+- NLP
+- Prompt Engineering LLM
+- Web Development
+- Software Engineering
+- API Development
+- Git
+- Docker
+- AWS
+- GCP
+
 ## Certification
 https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1
 
