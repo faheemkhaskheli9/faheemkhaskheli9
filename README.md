@@ -26,6 +26,7 @@ I am a certified Tensorflow Developer, working on machine learning, deep learnin
 https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1
 
 ## My Deep Learning Projects
+- Video Analytics using Detection Models - Ultralytics + Supervision
 - 3D Medical Images CT-Scan Segmentation
 - 3D Medical Images CT-Scan Keypoint detection
 - 2D Medical Images CT-Scan Segmentation
