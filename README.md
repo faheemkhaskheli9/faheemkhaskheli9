@@ -155,3 +155,4 @@ Created an API that takes input images along with a person's height in inches to
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/faheemkhaskheli/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCfxrlRNfidD22ItiiGzc3gA)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/faheemkhaskheli99)
+[Medium.com](https://medium.com/@faheemkhaskheli9)
