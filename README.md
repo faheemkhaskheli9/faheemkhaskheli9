@@ -4,6 +4,19 @@ Welcome to my GitHub profile.
 
 I am a Machine Learning Engineer with over four years of experience in computer vision, natural language processing (NLP), and time-series analysis. Proficient in Python, PyTorch, TensorFlow, and Scikit-Learn, I have designed and trained deep learning models for a range of applications, including medical image analysis, where I implemented 3D and 2D segmentation as well as keypoint detection for enhanced diagnostic accuracy. I have developed and implemented document parsing solutions using OCR, enabling efficient extraction of structured data from various document types. My expertise extends to building LLM-powered chatbots leveraging Retrieval-Augmented Generation (RAG) to provide intelligent and context-aware responses, optimizing enterprise-level AI solutions.
 
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| [llm-evaluation-platform](https://github.com/faheemkhaskheli9/llm-evaluation-platform) | Repeatable prompt/model testing — side-by-side comparison, LLM-as-judge scoring, and regression detection before deployment. |
+| [clinical-ai-assistant](https://github.com/faheemkhaskheli9/clinical-ai-assistant) | Conversational intake system that extracts structured clinical data from patient history and produces a doctor-facing summary. |
+| [multi-llm-router](https://github.com/faheemkhaskheli9/multi-llm-router) | Routes requests across multiple LLM providers by cost, latency, and quality, with fallback and retry logic. |
+| [retail-video-analytics](https://github.com/faheemkhaskheli9/retail-video-analytics) | Customer flow, dwell time, and staffing coverage extracted from existing store camera feeds. |
+| [document-ai-yolo-ocr](https://github.com/faheemkhaskheli9/document-ai-yolo-ocr) | YOLO-based layout detection combined with OCR to extract structured fields from invoices, contracts, and forms. |
+| [3d-ct-segmentation](https://github.com/faheemkhaskheli9/3d-ct-segmentation) | U-Net based segmentation of anatomical structures in 3D CT volumes to assist radiologist review. |
+
+More projects (RAG evaluation, voice agents, medical imaging, trading ML, MLOps/serving) are indexed across my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
+
 ## Skills
 - Python
 ### Machine Learning & Deep Learning
