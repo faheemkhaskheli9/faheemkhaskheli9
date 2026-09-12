@@ -8,14 +8,15 @@ I am a Machine Learning Engineer with over four years of experience in computer 
 
 | Project | What it does |
 |---|---|
-| [llm-evaluation-platform](https://github.com/faheemkhaskheli9/llm-evaluation-platform) | Repeatable prompt/model testing — side-by-side comparison, LLM-as-judge scoring, and regression detection before deployment. |
-| [clinical-ai-assistant](https://github.com/faheemkhaskheli9/clinical-ai-assistant) | Conversational intake system that extracts structured clinical data from patient history and produces a doctor-facing summary. |
+| [video-analytics-suite](https://github.com/faheemkhaskheli9/video-analytics-suite) | Django MVP combining 8 video-analytics features (customer flow, dwell time, line-crossing counts, pose estimation, action recognition, and more) behind one dashboard. |
+| [medical-imaging-suite](https://github.com/faheemkhaskheli9/medical-imaging-suite) | Django MVP combining 5 medical-imaging features — 2D/3D CT and breast-tumor segmentation, keypoint detection — selectable from a shared UI. |
+| [trading-ai-suite](https://github.com/faheemkhaskheli9/trading-ai-suite) | Django MVP combining 5 trading/finance features — price forecasting, an ML trading bot, active-learning trading, news sentiment, and stock analytics dashboards. |
+| [cv-suite](https://github.com/faheemkhaskheli9/cv-suite) | Django MVP combining 7 computer-vision tasks — face-recognition attendance, OCR, object detection, digit recognition, gender classification, and color/palette extraction. |
+| [document-ai-suite](https://github.com/faheemkhaskheli9/document-ai-suite) | YOLO-based layout detection + OCR and a classify-and-review pipeline for extracting structured fields from invoices, contracts, and forms. |
+| [clinical-llm-suite](https://github.com/faheemkhaskheli9/clinical-llm-suite) | Conversational clinical intake, DAG-based data extraction, and a doctor-facing review portal, combined into one app. |
 | [multi-llm-router](https://github.com/faheemkhaskheli9/multi-llm-router) | Routes requests across multiple LLM providers by cost, latency, and quality, with fallback and retry logic. |
-| [retail-video-analytics](https://github.com/faheemkhaskheli9/retail-video-analytics) | Customer flow, dwell time, and staffing coverage extracted from existing store camera feeds. |
-| [document-ai-yolo-ocr](https://github.com/faheemkhaskheli9/document-ai-yolo-ocr) | YOLO-based layout detection combined with OCR to extract structured fields from invoices, contracts, and forms. |
-| [3d-ct-segmentation](https://github.com/faheemkhaskheli9/3d-ct-segmentation) | U-Net based segmentation of anatomical structures in 3D CT volumes to assist radiologist review. |
 
-More projects (RAG evaluation, voice agents, medical imaging, trading ML, MLOps/serving) are indexed across my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
+More projects (RAG evaluation, voice agents, AutoML, MLOps/serving, robotics) are indexed across my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
 
 ## Skills
 - Python
