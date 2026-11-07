@@ -1,8 +1,8 @@
 # Faheem Khaskheli
 
-Welcome to my GitHub profile.
-
 I am a Machine Learning Engineer with 5+ years of experience in LLM and agentic AI, computer vision, medical imaging, and time-series analysis. I build real-time chat and voice assistants on the OpenAI API with tool calling and LLM-as-a-Judge evaluation, enterprise RAG chatbots, and fine-tuned open models (LoRA). In medical imaging I have trained 2D and 3D segmentation and keypoint detection models, and I have built OCR-based document parsing pipelines that extract structured data from invoices, contracts and forms. I work mainly in Python with PyTorch, TensorFlow, Hugging Face and LangChain.
+
+Open to ML/LLM engineering roles in the EU (eligible for EU Blue Card / Dutch HSM visa, open to relocation).
 
 ## Featured Projects
 
@@ -16,54 +16,57 @@ I am a Machine Learning Engineer with 5+ years of experience in LLM and agentic 
 | [clinical-llm-suite](https://github.com/faheemkhaskheli9/clinical-llm-suite) | Conversational clinical intake, DAG-based data extraction, and a doctor-facing review portal, combined into one app. |
 | [multi-llm-router](https://github.com/faheemkhaskheli9/multi-llm-router) | Routes requests across multiple LLM providers by cost, latency, and quality, with fallback and retry logic. |
 
-More projects (RAG evaluation, voice agents, AutoML, MLOps/serving, robotics) are indexed across my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
+More projects are in my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
 
 ## Skills
+### Languages
 - Python
+- SQL
+- C++
+- JavaScript
 ### Machine Learning & Deep Learning
-- Scikit-Learn
-- Tensorflow
-- Pytorch
+- PyTorch
+- TensorFlow
 - Keras
-- Tensorflow Serving
+- Scikit-Learn
+- OpenCV
+- YOLO (Ultralytics)
+- TensorFlow Serving
 - TorchServe
-- Nvidia Triton Inference Server
+- NVIDIA Triton Inference Server
 ### Large Language Models
 - OpenAI API, Realtime API and Agents SDK
 - Tool calling, MCP, LLM-as-a-Judge evals
+- LangChain
 - LlamaIndex
-- HuggingFace
-- Langchain
-- LoRA
-- QLoRA
-- PEFT
+- Hugging Face Transformers
+- LiveKit
+- RAG with FAISS, pgvector and Pinecone
+- LoRA, QLoRA, PEFT
 - DeepSpeed
-- OpenAI
 - Ollama
 ### DevOps & MLOps
 - Docker
 - Git
 - DVC (Data Version Control)
-- MLFlow
+- MLflow
+- Airflow
 - Optuna
 ### Data Science
 - Pandas
-- Numpy
+- NumPy
 - Dask
 ### Backend
 - Kafka
 - asyncio
-### Web Development
-- HTML
-- CSS
-- Javascript
-### API Development
+### API & Web Development
 - FastAPI
+- Django and DRF (Django REST Framework)
 - Flask
-- DRF (Django Rest Framework)
-### Database Management
-- SQL
-- MYSQL
+- Streamlit
+- HTML, CSS
+### Databases
+- MySQL
 - SQLite
 - PostgreSQL
 - MongoDB
@@ -72,40 +75,44 @@ More projects (RAG evaluation, voice agents, AutoML, MLOps/serving, robotics) ar
 - Selenium
 ### Cloud
 - AWS
+- Azure
 - GCP
 
 ## Certification
-https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1
+[View credential](https://www.credential.net/384193e5-12b2-4142-9329-fa6d878e6537#gs.sf64l1)
 
 ## My Deep Learning Projects
+### Real-time Medical Voice Assistant
+Built and led a real-time voice-to-voice medical chatbot on the OpenAI Realtime API that collects structured patient data through natural conversation, using tool calling and LLM-as-a-Judge evaluation.
+
+### HAMI Healthcare Assistant
+An LLM doctor chatbot with medical-history sharing, AI-generated summaries, and a speech-to-text medical scribe.
+
 ### Video Analytics using Detection Models - Ultralytics + Supervision
-Implemented a video analytics solution using object detection, object segmentation, and object tracking to monitoring customers entering store, counting customer near specific locations, generate heatmap of customers visited locations, cashier presence at counter, time for which cashier was empty.
+Implemented a video analytics solution using object detection, segmentation, and tracking to monitor customers entering a store, count customers near specific locations, generate heatmaps of visited locations, and track cashier presence at the counter and how long it was left empty.
 
-### Private GPT With RAG
-Implemented an Open Source Large Language Model (LLM) using LangChain with Retrieval-Augmented Generation (RAG) to assist users with queries about specific organizations.
+### RAG Question Answering and Private GPT
+Built Retrieval-Augmented Generation (RAG) systems with LangChain on open-source LLMs that answer user queries about an organization's own data. One version used Ollama 25B with Weaviate as the vector database to retrieve relevant client data and generate context-aware answers.
 
-### Voice Virtual assistants
-I developed VoiceRAG, a voice-based chatbot using speech recognition, text-to-speech, and RAG (Retrieval-Augmented Generation) with Mistral LLM. Users can have natural, real-time conversations and ask questions about company data, making it ideal for virtual assistants, business intelligence, and customer support applications.
-
-### AI-Powered RAG-Based Question Answering System
-I developed an advanced Retrieval-Augmented Generation (RAG) system utilizing LangChain, Ollama 25B, and Weaviate as the vector database. The system is designed to efficiently answer user queries by retrieving relevant information from client-provided data and generating context-aware responses using a powerful LLM (Ollama 25B).
+### Voice Virtual Assistant
+I developed VoiceRAG, a voice-based chatbot using speech recognition, text-to-speech, and RAG with the Mistral LLM. Users can have natural, real-time conversations and ask questions about company data, making it suitable for virtual assistants, business intelligence, and customer support.
 
 ### Text To SQL
-Implemented a HuggingFace and OpenAI model for Text-to-SQL, enabling users to query the database in English and displaying the results in knowledge graphs.
+Built a Text-to-SQL system with Hugging Face and OpenAI models that lets users query a database in plain English and displays the results as knowledge graphs.
 
 ### 3D Breast Tumor Segmentation
 Implemented and custom-trained a 3D U-Net model for breast cancer tumor segmentation from MRI data.
 
 ### 3D Medical Images CT-Scan Segmentation
- Implemented and trained a deep learning model for the segmentation of medical 3D images (CT scans) using the U-Net architecture with an EfficientNet backbone.
- 
-### 3D Medical Images CT-Scan Keypoint detection
+Implemented and trained a deep learning model for the segmentation of medical 3D images (CT scans) using the U-Net architecture with an EfficientNet backbone.
+
+### 3D Medical Images CT-Scan Keypoint Detection
 Implemented and trained a custom deep learning model for keypoint detection in medical 3D images (CT scans).
 
 ### Intelligent Document Parsing
 Implemented and trained a deep learning model for text and field detection in various documents using the YOLO architecture, and developed a complete pipeline for document parsing and Optical Character Recognition (OCR).
 
-### Human Action Recognition from video
+### Human Action Recognition from Video
 Developed an application that analyzes classroom videos and identifies teacher actions such as sitting, talking, walking, writing on the board, presenting, and pointing to the board.
 
 ### Other Computer Vision and ML Projects
@@ -114,8 +121,8 @@ Face recognition, pneumonia detection from X-rays, vehicle and license plate det
 ### Quora Insincere Question Classification
 Classified questions as genuine or not using a dataset provided by Quora by training a deep learning model to determine if questions are sincere or insincere.
 
-### Stock Price change Prediction
-Implemented models to predict price change with least error possible, including price motion of direction prediction to reduce loss during trading.
+### Stock Price Change Prediction
+Built models that predict price changes, including the direction of price movement, to reduce losses during trading.
 
 ### Auto ML Django App
 Developed a Django app that allows users to upload custom datasets and train various machine learning models, featuring dataset visualization, exploratory data analysis, dataset cleaning, model parameter customization, and model result visualization.
@@ -123,32 +130,8 @@ Developed a Django app that allows users to upload custom datasets and train var
 ### Body Size Measurement and API
 Created an API that takes input images along with a person's height in inches to return body measurements. Utilized a pre-trained pose estimation model to locate the joints of the human body in the images and calculated the pixel distances between different joints.
 
-## My Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-- Selenium
-- Tensorflow
-- Keras
-
----
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
----
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+## Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ## Find Me Online
 
