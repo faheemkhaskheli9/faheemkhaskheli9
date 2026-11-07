@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I am a Machine Learning Engineer with over four years of experience in computer vision, natural language processing (NLP), and time-series analysis. Proficient in Python, PyTorch, TensorFlow, and Scikit-Learn, I have designed and trained deep learning models for a range of applications, including medical image analysis, where I implemented 3D and 2D segmentation as well as keypoint detection for enhanced diagnostic accuracy. I have developed and implemented document parsing solutions using OCR, enabling efficient extraction of structured data from various document types. My expertise extends to building LLM-powered chatbots leveraging Retrieval-Augmented Generation (RAG) to provide intelligent and context-aware responses, optimizing enterprise-level AI solutions.
+I am a Machine Learning Engineer with 5+ years of experience in LLM and agentic AI, computer vision, medical imaging, and time-series analysis. I build real-time chat and voice assistants on the OpenAI API with tool calling and LLM-as-a-Judge evaluation, enterprise RAG chatbots, and fine-tuned open models (LoRA). In medical imaging I have trained 2D and 3D segmentation and keypoint detection models, and I have built OCR-based document parsing pipelines that extract structured data from invoices, contracts and forms. I work mainly in Python with PyTorch, TensorFlow, Hugging Face and LangChain.
 
 ## Featured Projects
 
@@ -29,6 +29,9 @@ More projects (RAG evaluation, voice agents, AutoML, MLOps/serving, robotics) ar
 - TorchServe
 - Nvidia Triton Inference Server
 ### Large Language Models
+- OpenAI API, Realtime API and Agents SDK
+- Tool calling, MCP, LLM-as-a-Judge evals
+- LlamaIndex
 - HuggingFace
 - Langchain
 - LoRA
@@ -64,7 +67,7 @@ More projects (RAG evaluation, voice agents, AutoML, MLOps/serving, robotics) ar
 - SQLite
 - PostgreSQL
 - MongoDB
-### Web Scrapping
+### Web Scraping
 - BeautifulSoup
 - Selenium
 ### Cloud
@@ -99,40 +102,23 @@ Implemented and custom-trained a 3D U-Net model for breast cancer tumor segmenta
 ### 3D Medical Images CT-Scan Keypoint detection
 Implemented and trained a custom deep learning model for keypoint detection in medical 3D images (CT scans).
 
-### 2D Medical Images CT-Scan Segmentation
-
-### 2D Medical Images CT-Scan Keypoint detection
-
-### Custom Trained OCR
-
 ### Intelligent Document Parsing
 Implemented and trained a deep learning model for text and field detection in various documents using the YOLO architecture, and developed a complete pipeline for document parsing and Optical Character Recognition (OCR).
 
 ### Human Action Recognition from video
 Developed an application that analyzes classroom videos and identifies teacher actions such as sitting, talking, walking, writing on the board, presenting, and pointing to the board.
- 
-### Face Recognition
 
-### Pneumonia Detection from XRay
+### Other Computer Vision and ML Projects
+Face recognition, pneumonia detection from X-rays, vehicle and license plate detection, custom-trained OCR, skin disease recognition, and credit card fraud detection.
 
-### Vehicle Detection
-
-### License Plate Detection
-
-### Optical Character Recognition
-
-### Credit Card Fraud Detection
-
-### Skin Disease Recognition from images
-
-### Quora Insincere Question CLassification
+### Quora Insincere Question Classification
 Classified questions as genuine or not using a dataset provided by Quora by training a deep learning model to determine if questions are sincere or insincere.
 
 ### Stock Price change Prediction
 Implemented models to predict price change with least error possible, including price motion of direction prediction to reduce loss during trading.
 
 ### Auto ML Django App
-Classified questions as genuine or not using a dataset provided by Quora. Developed a Django app that allows users to upload custom datasets and train various machine learning models, featuring dataset visualization, exploratory data analysis, dataset cleaning, model parameter customization, and model result visualization.
+Developed a Django app that allows users to upload custom datasets and train various machine learning models, featuring dataset visualization, exploratory data analysis, dataset cleaning, model parameter customization, and model result visualization.
 
 ### Body Size Measurement and API
 Created an API that takes input images along with a person's height in inches to return body measurements. Utilized a pre-trained pose estimation model to locate the joints of the human body in the images and calculated the pixel distances between different joints.
@@ -151,7 +137,7 @@ Created an API that takes input images along with a person's height in inches to
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
@@ -164,7 +150,7 @@ Created an API that takes input images along with a person's height in inches to
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-## My social Meida Channel
+## Find Me Online
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/faheemkhaskheli/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCfxrlRNfidD22ItiiGzc3gA)
