@@ -8,13 +8,13 @@ Open to ML/LLM engineering roles in the EU (eligible for EU Blue Card / Dutch HS
 
 | Project | What it does |
 |---|---|
-| [video-analytics-suite](https://github.com/faheemkhaskheli9/video-analytics-suite) | Django MVP combining 8 video-analytics features (customer flow, dwell time, line-crossing counts, pose estimation, action recognition, and more) behind one dashboard. |
-| [medical-imaging-suite](https://github.com/faheemkhaskheli9/medical-imaging-suite) | Django MVP combining 5 medical-imaging features — 2D/3D CT and breast-tumor segmentation, keypoint detection — selectable from a shared UI. |
-| [trading-ai-suite](https://github.com/faheemkhaskheli9/trading-ai-suite) | Django MVP combining 5 trading/finance features — price forecasting, an ML trading bot, active-learning trading, news sentiment, and stock analytics dashboards. |
-| [cv-suite](https://github.com/faheemkhaskheli9/cv-suite) | Django MVP combining 7 computer-vision tasks — face-recognition attendance, OCR, object detection, digit recognition, gender classification, and color/palette extraction. |
-| [document-ai-suite](https://github.com/faheemkhaskheli9/document-ai-suite) | YOLO-based layout detection + OCR and a classify-and-review pipeline for extracting structured fields from invoices, contracts, and forms. |
-| [clinical-llm-suite](https://github.com/faheemkhaskheli9/clinical-llm-suite) | Conversational clinical intake, DAG-based data extraction, and a doctor-facing review portal, combined into one app. |
-| [multi-llm-router](https://github.com/faheemkhaskheli9/multi-llm-router) | Routes requests across multiple LLM providers by cost, latency, and quality, with fallback and retry logic. |
+| [ai-rfp-generator](https://github.com/faheemkhaskheli9/ai-rfp-generator) | Multi-stage LLM pipeline that turns RFP requirements into a structured, fact-checked response draft: document structure, fact extraction, section generation, validation and export. |
+| [pakistani-lawyer-ai](https://github.com/faheemkhaskheli9/pakistani-lawyer-ai) | Citation-grounded legal Q&A over Pakistani statutes and case law: chunking and embedding with sentence-transformers, retrieval, and answers that cite the section or judgment, behind a FastAPI layer. |
+| [ai-email-agent](https://github.com/faheemkhaskheli9/ai-email-agent) | Email agent that classifies incoming mail, retrieves conversation history, drafts a reply and routes it for human approval before sending. |
+| [Customer-Support-LLM](https://github.com/faheemkhaskheli9/Customer-Support-LLM) | Nine-module course and Django app for building a trustworthy customer-support assistant, from LLM basics and RAG through evaluation and deployment. |
+| [Local-AI-Ops](https://github.com/faheemkhaskheli9/Local-AI-Ops) | Python toolbox that moves repeatable work off paid LLMs: cached, deterministic local Ollama and Claude calls, text compaction to a token budget, and document-to-text conversion. |
+| [Evolutions](https://github.com/faheemkhaskheli9/Evolutions) | Biological evolution simulator: a Rust engine with a scientific validation suite, compiled to WebAssembly and shown in a React and three.js 3D world. |
+| [Brain-Tumor-Segmentation](https://github.com/faheemkhaskheli9/Brain-Tumor-Segmentation) | U-Net with a ResNet backbone that segments breast tumors and labels them benign or malignant. |
 
 More projects are in my [other repositories](https://github.com/faheemkhaskheli9?tab=repositories).
 
