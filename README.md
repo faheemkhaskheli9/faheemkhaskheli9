@@ -87,9 +87,6 @@ More projects are in my [other repositories](https://github.com/faheemkhaskheli9
 ### Real-time Medical Voice Assistant
 Built and led a real-time voice-to-voice medical chatbot on the OpenAI Realtime API that collects structured patient data through natural conversation, using tool calling and LLM-as-a-Judge evaluation.
 
-### HAMI Healthcare Assistant
-An LLM doctor chatbot with medical-history sharing, AI-generated summaries, and a speech-to-text medical scribe.
-
 ### Video Analytics using Detection Models - Ultralytics + Supervision
 Implemented a video analytics solution using object detection, segmentation, and tracking to monitor customers entering a store, count customers near specific locations, generate heatmaps of visited locations, and track cashier presence at the counter and how long it was left empty.
 
