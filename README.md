@@ -1,6 +1,8 @@
-# Faheem Khaskheli
+# Faim Khaskheli
 
-I am a Machine Learning Engineer with 5+ years of experience in LLM and agentic AI, computer vision, medical imaging, and time-series analysis. I build real-time chat and voice assistants on the OpenAI API with tool calling and LLM-as-a-Judge evaluation, enterprise RAG chatbots, and fine-tuned open models (LoRA). In medical imaging I have trained 2D and 3D segmentation and keypoint detection models, and I have built OCR-based document parsing pipelines that extract structured data from invoices, contracts and forms. I work mainly in Python with PyTorch, TensorFlow, Hugging Face and LangChain.
+AI Engineer with 6+ years building and shipping production AI products: tool-calling LLM agents, RAG, real-time voice and LLM-as-a
+Judge evaluation, backed by deep-learning experience in vision and medical imaging. Currently delivering a clinical AI platform on
+OpenAI and Azure. Led AI delivery from prototype to production and mentored junior engineers
 
 Open to ML/LLM engineering roles in the EU (eligible for EU Blue Card / Dutch HSM visa, open to relocation).
 
